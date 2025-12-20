@@ -1,0 +1,51 @@
+.profilePicture {
+  width: 280px;
+  height: auto;
+  margin-left: 500px;
+  margin-top: 350px;
+}
+
+.line1{
+  display: block;
+  font-family: serif;
+  font-size: 50px;
+  color: #F05941;
+  margin-left: 800px;
+  margin-top: -300px;
+}
+
+.line2{
+  display: block;
+  font-family: serif;
+  font-size: 40px;
+  color: #F05941;
+  margin-left: 800px;
+  margin-top: -310;
+}
+
+.githubLink{
+  display: inline-block;
+  background-color: #872341;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  margin-left: 800px;
+  margin-top: 15px;
+}
+
+.linkedinLink{
+  display: inline-block;
+  background-color: #872341;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
